@@ -1,2 +1,4 @@
 # SkiExtract
-Documentation and Development of my Bachelors Thesis about a Key Frame Extraction Problem
+A Machine Learning Approach to Analyzing the 2:1 Skating Technique in Cross-Country Skiing
+
+
