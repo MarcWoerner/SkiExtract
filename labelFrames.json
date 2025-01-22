@@ -1,12 +1,932 @@
 {
     "videos": [
         {
-            "videoname": "Rie\u00dfle Fin.MOV",
+            "videoname": "Klauser Hannes.mp4",
             "frame_details": [
                 {
-                    "frame_number": 96,
-                    "score": 0.9984124302864075,
-                    "image_name": "Rie\u00dfle Fin_004.jpg"
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klauser Hannes_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klauser Hannes_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klauser Hannes_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klauser Hannes_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klauser Hannes_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Niemeyer Felix.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Felix _005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Felix _004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Felix _003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Felix _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Felix _001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Müller Jonah.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Müller Jonah_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Müller Jonah_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Müller Jonah_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Müller Jonah_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Müller Jonah_004.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Niemeyer Linus.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Linus_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Linus_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Linus_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Linus_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Niemeyer Linus_002.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Lauber Charlotte.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Lauber Charlotte_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Lauber Charlotte_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Lauber Charlotte_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Lauber Charlotte_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Lauber Charlotte_005.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Wehrle Lukas.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Wehrle Lukas_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Wehrle Lukas_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Wehrle Lukas_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Wehrle Lukas_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Wehrle Lukas_001 .jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Himmelreich Anna.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Himmelreich Anna_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Himmelreich Anna_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Himmelreich Anna_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Himmelreich Anna_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Himmelreich Anna_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Göpfert Haile.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Göpfert Haile _004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Göpfert Haile _005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Göpfert Haile _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Göpfert Haile _003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Göpfert Haile _001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Speicher Paul.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Speicher Paul_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Speicher Paul_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Speicher Paul_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Speicher Paul_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Speicher Paul_002.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Deimel Lasse.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Deimel Lasse_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Deimel Lasse_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Deimel Lasse_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Deimel Lasse_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Deimel Lasse_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Sonntag Janne.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Sonntag Janne_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Sonntag Janne_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Sonntag Janne_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Sonntag Janne_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Sonntag Janne_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Mammey Max.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Mammey Max_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Mammey Max_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Mammey Max_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Mammey Max_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Mammey Max_001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Hermann Noemi.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hermann Noemi_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hermann Noemi_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hermann Noemi_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hermann Noemi_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hermann Noemi_002.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Häfner Timo.mp4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Häfner Timo_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Häfner Timo_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Häfner Timo_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Häfner Timo_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Häfner Timo_001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Hennecke Nele.MP4",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hennecke Nele_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hennecke Nele_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hennecke Nele_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hennecke Nele_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Hennecke Nele_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Möhrmann Silas.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Möhrmann Silas _003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Möhrmann Silas _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Möhrmann Silas _001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Möhrmann Silas _005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Möhrmann Silas _004.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Uhr Maximilian.mov",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhr Maximilian_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhr Maximilian_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhr Maximilian_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhr Maximilian_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhr Maximilian_001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Zimmermann Oscar.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Zimmermann Oscar_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Zimmermann Oscar_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Zimmermann Oscar_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Zimmermann Oscar_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Zimmermann Oscar_002.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Armbruster Nathalie.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Armbruster Nathalie  _001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Armbruster Nathalie  _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Armbruster Nathalie  _003.png"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Armbruster Nathalie  _004.png"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Armbruster Nathalie  _005.png"
+                }
+            ]
+        },
+        {
+            "videoname": "Linner Mario.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Linner Mario_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Linner Mario_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Linner Mario_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Linner Mario_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Linner Mario_005.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Riedl Kilian.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Riedl Kilian_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Riedl Kilian_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Riedl Kilian_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Riedl Kilian_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Riedl Kilian_003.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Ketterer Mika.mov",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Mika_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Mika_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Mika_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Mika_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Mika_004.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Rießle Fin.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Rießle Fin_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Rießle Fin_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Rießle Fin_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Rießle Fin_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Rießle Fin_001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Finkbeiner Nina.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Finkbeiner Nina  _005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Finkbeiner Nina  _004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Finkbeiner Nina  _003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Finkbeiner Nina  _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Finkbeiner Nina  _001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Adam Theo.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Adam Theo _002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Adam Theo _003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Adam Theo _001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Adam Theo _004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Adam Theo _005.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Grüner Amelie.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Grüner Amelie_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Grüner Amelie_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Grüner Amelie_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Grüner Amelie_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Grüner Amelie_005.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Ketterer Nico.mov",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Nico_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Nico_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Nico_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Nico_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Nico_004.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Ketterer Colin.mov",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Colin_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Colin_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Colin_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Colin_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Ketterer Colin_005.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Schmelzle Janne.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Schmelzle Janne_004.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Schmelzle Janne_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Schmelzle Janne_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Schmelzle Janne_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Schmelzle Janne_001.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Klumpp Fabienne.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klumpp Fabienne_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klumpp Fabienne_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klumpp Fabienne_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klumpp Fabienne_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Klumpp Fabienne_004.jpg"
+                }
+            ]
+        },
+        {
+            "videoname": "Uhlig Niklas.MOV",
+            "frame_details": [
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhlig Niklas_003.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhlig Niklas_002.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhlig Niklas_001.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhlig Niklas_005.jpg"
+                },
+                {
+                    "frame_number": 142,
+                    "score": 0.9859767556190491,
+                    "image_name": "Uhlig Niklas_004.jpg"
                 }
             ]
         }
